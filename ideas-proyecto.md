@@ -4,8 +4,8 @@
 > "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
 > equipo decidirá con cuál se queda.
 
-**Autor:** [Tu nombre]
-**Fecha:** [ ]
+**Autor:** [Abril Pérez Martínez]
+**Fecha:** [17 septiembre 2026 ]
 
 ---
 
@@ -20,17 +20,16 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 1: [Nombre de la idea]
+## Idea 1: [Volante con dirección asistida]
 
-**Problema.** [Dos o tres líneas. Qué está mal hoy, sin solución todavía.]
+**Problema.** [muchos accidentes automovilísticos son provocados por la falta de atención del conductor, un mal manejo del vehículo o por cuestiones de salud inesperadas durante el trayecto en el que vamos manejando de un lugar a otro]
 
-**A quién le pasa.** [Quién sufre el problema, de la forma más específica posible.]
+**A quién le pasa.** [puede suceder a cualquier persona, sin embargo en cuestión de salud va más hacia adultos mayores, personas con enfermedades cardiacas o con déficit de atención y demás condiciones que puedan influir en el aspecto de la salud.]
 
-**Dónde lo he visto.** [Lugar y situación concretos que tú viste, no algo que leíste. Esta
-sección es obligatoria y no se puede resolver con una búsqueda.]
+**Dónde lo he visto.** [noticias y reportajes de distintos lugares, sin embargo puede suceder incluso dentro del estacionamiento de la universidad]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
+- Qué mide o detecta (sensor): [ se usan sensores de fuerza y biométricos que miden la fuerza con la que se sostiene el volante y los signos vitales del conductor del vehículo]
 - Qué hace con eso (actuador, aviso, pantalla): [ ]
 - Qué pieza habría que fabricar: [ ]
 
