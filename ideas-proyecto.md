@@ -20,22 +20,22 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 1: [Volante con dirección asistida]
+## Idea 1: [alarma de pendientes tipo reloj despertador]
 
-**Problema.** [muchos accidentes automovilísticos son provocados por la falta de atención del conductor, un mal manejo del vehículo o por cuestiones de salud inesperadas durante el trayecto en el que vamos manejando de un lugar a otro]
+**Problema.** [olvidar pendientes como ordenar la mochila, sacar la ropa de la secadora o incluso la hora de dormir, muchas veces perdemos consciencia del tiempo y necesitamos un pequeño recordatorio de esas pequeñas tareas que podemos dejar de lado aveces ]
 
-**A quién le pasa.** [puede suceder a cualquier persona, sin embargo en cuestión de salud va más hacia adultos mayores, personas con enfermedades cardiacas o con déficit de atención y demás condiciones que puedan influir en el aspecto de la salud.]
+**A quién le pasa.** [en mi casa es muy común que a mi hermano y a mi se nos olvide hacer algunas tareas pequeñas que nos encarga mi mamá u olvidamos llevar algunas cosas a la escuela]
 
-**Dónde lo he visto.** [noticias y reportajes de distintos lugares, sin embargo puede suceder incluso dentro del estacionamiento de la universidad]
+**Dónde lo he visto.** [en mi casa y con mis amigos]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ se usan sensores de fuerza y biométricos que miden la fuerza con la que se sostiene el volante y los signos vitales del conductor del vehículo]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [ se usa un sensor de proximidad o toque, para que cuando suene la alarma solo se desactive al tocarla o acercar mucho la mano al dispositivo]
+- Qué hace con eso (actuador, aviso, pantalla): [se asegura de que fuiste a leer el pendiente que te está recordando ]
+- Qué pieza habría que fabricar: [ la base del reloj donde se pondrán los sensores y todo lo necesario para que funcione]
 
 ---
 
-## Idea 2: [Nombre de la idea]
+## Idea 2: [detector de mala postura]
 
 **Problema.** [ ]
 
