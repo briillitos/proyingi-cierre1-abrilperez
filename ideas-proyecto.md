@@ -37,7 +37,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Idea 2: [detector de mala postura]
 
-**Problema.** [ ]
+**Problema.** [ los alumnos normalmente tienen una mala postura al momento de estar sentados tomando clases]
 
 **A quién le pasa.** [ ]
 
