@@ -18,25 +18,24 @@
 
 ### Idea 1: [Alarma de pendientes tipo reloj despertador]
 
-- **Qué encontré:** [ el reloj BBrain-Demencia de la marca Nura]
+- **Qué encontré:** [ el reloj BBrain-Demencia de la marca Nura ⏰ ]
 - **Enlace:** [ nuraconfort] (https://nuraconfort.com/producto/reloj-recordatorio-personalizado/)
-- **Qué hace:** [ ]
-- **Por qué no resuelve mi caso:** [precio, no existe en México, requiere internet, no
-  sirve para el lugar donde yo lo vi, etc.]
+- **Qué hace:** [ayuda a las personas mayores a mantener su rutina diaria de manera autónoma y tranquila. Lo hace por medio de un sistema de recordatorios por voz. ]
+- **Por qué no resuelve mi caso:** [ su precio es de 136.20 euros, está enfocado únicamente a adultos mayores, disponible unicamente en línea debido a que es una empresa europea ]
 
-### Idea 2: [nombre]
-
-- **Qué encontré:** [ ]
-- **Enlace:** [ ]
-- **Qué hace:** [ ]
-- **Por qué no resuelve mi caso:** [ ]
-
-### Idea 3: [nombre]
+### Idea 2: [detector de mala postura 🚶🏻‍➡️]
 
 - **Qué encontré:** [ ]
 - **Enlace:** [ ]
-- **Qué hace:** [ ]
+- **Qué hace:** [ infobae] (https://www.infobae.com/america/tecno/2022/01/11/un-dispositivo-que-vibra-podria-ayudarle-a-mantener-una-mejor-postura/)
 - **Por qué no resuelve mi caso:** [ ]
+
+### Idea 3: [rodillera de cuidado de rehabilitación 🦵🏻]
+
+- **Qué encontré:** [ existen muchos tipo de rodilleras, sin embaargo, no encontré ninguna que contenga ningun tipo sensor ]
+- **Enlace:** [ información sobre tipos de rodilleras y sus usos] ()
+- **Qué hace:** [ ]
+- **Por qué no resuelve mi caso:** [https://ortopediaparati.com/blog/tipos-de-rodilleras/?srsltid=AU7gw4WNAOX9WlPbTjMOYF0HzuCjxCy07reqQUaxIfaGcghZm6g0IZqs ]
 
 ---
 
