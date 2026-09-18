@@ -16,10 +16,10 @@
 > proyecto de otra universidad, un repositorio, un tutorial. Encontrar que ya existe no
 > arruina tu idea; te dice desde dónde empezar.
 
-### Idea 1: [nombre]
+### Idea 1: [Alarma de pendientes tipo reloj despertador]
 
-- **Qué encontré:** [ ]
-- **Enlace:** [ ]
+- **Qué encontré:** [ el reloj BBrain-Demencia de la marca Nura]
+- **Enlace:** [ nuraconfort] (https://nuraconfort.com/producto/reloj-recordatorio-personalizado/)
 - **Qué hace:** [ ]
 - **Por qué no resuelve mi caso:** [precio, no existe en México, requiere internet, no
   sirve para el lugar donde yo lo vi, etc.]
