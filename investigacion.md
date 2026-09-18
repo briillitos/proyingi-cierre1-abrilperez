@@ -26,16 +26,16 @@
 ### Idea 2: [detector de mala postura 🚶🏻‍➡️]
 
 - **Qué encontré:** [ ]
-- **Enlace:** [ ]
-- **Qué hace:** [ infobae] (https://www.infobae.com/america/tecno/2022/01/11/un-dispositivo-que-vibra-podria-ayudarle-a-mantener-una-mejor-postura/)
+- **Enlace:** [ infobae ] (https://www.infobae.com/america/tecno/2022/01/11/un-dispositivo-que-vibra-podria-ayudarle-a-mantener-una-mejor-postura/)
+- **Qué hace:** [ ] 
 - **Por qué no resuelve mi caso:** [ ]
 
 ### Idea 3: [rodillera de cuidado de rehabilitación 🦵🏻]
 
 - **Qué encontré:** [ existen muchos tipo de rodilleras, sin embaargo, no encontré ninguna que contenga ningun tipo sensor ]
-- **Enlace:** [ información sobre tipos de rodilleras y sus usos] ()
+- **Enlace:** [ información sobre tipos de rodilleras y sus usos] (https://ortopediaparati.com/blog/tipos-de-rodilleras/?srsltid=AU7gw4WNAOX9WlPbTjMOYF0HzuCjxCy07reqQUaxIfaGcghZm6g0IZqs )
 - **Qué hace:** [ ]
-- **Por qué no resuelve mi caso:** [https://ortopediaparati.com/blog/tipos-de-rodilleras/?srsltid=AU7gw4WNAOX9WlPbTjMOYF0HzuCjxCy07reqQUaxIfaGcghZm6g0IZqs ]
+- **Por qué no resuelve mi caso:** [ ]
 
 ---
 
