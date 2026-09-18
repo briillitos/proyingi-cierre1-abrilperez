@@ -1,8 +1,5 @@
 # Tres ideas de proyecto
 
-> Instrucción: sustituye lo que está entre corchetes y borra las líneas que empiezan con
-> "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
-> equipo decidirá con cuál se queda.
 
 **Autor:** [Abril Pérez Martínez]
 **Fecha:** [17 septiembre 2026 ]
@@ -39,18 +36,18 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Problema.** [ los alumnos normalmente tienen una mala postura al momento de estar sentados tomando clases]
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** [ a los alumnos de IBERO Puebla]
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** [en mis clases y cuando veo havia los salones en los que están tomando clase durante la semana ]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [ se usa un sensor de inclinación para saber que tan encorvado está el alumno que o usa]
+- Qué hace con eso (actuador, aviso, pantalla): [ emite un pequeño sonido para advertir que se debe corregir la postura en ese momento]
+- Qué pieza habría que fabricar: [una base que pueda ponnerse sobre la ropa en la parte de la espalda  ]
 
 ---
 
-## Idea 3: [Nombre de la idea]
+## Idea 3: [rodillera con sensores de movimientos peligrosos para la misma]
 
 **Problema.** [ ]
 
