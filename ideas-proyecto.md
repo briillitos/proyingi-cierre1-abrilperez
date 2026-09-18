@@ -47,48 +47,44 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 3: [rodillera con sensores de movimientos peligrosos para la misma]
+## Idea 3: [rodillera de cuidado de rehabilitación]
 
-**Problema.** [ ]
+**Problema.** [tengo problemas en la rodilla y debo tener cuidado al momento de ensyar o tomar mi taller de baile en la universidad debido a una lesión]
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** [ a mi y a los deportistas o bailarines de las distintas disciplinas que ese imparten en la IBERO]
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** [ en mi casa y en la IBERO]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [ se usan sensores de movimiento y ángulo en posiciones estrategicas para saber si es un movimiento normal o peligroso para la rodilla del usuario]
+- Qué hace con eso (actuador, aviso, pantalla): [ emite un ligero sonido que da a notar que se debe tener cuidado con el movimiento realizado debido a que podría afectar la rehabilitación]
+- Qué pieza habría que fabricar: [la rodillera con las bases para mantener los sensorees en posiciones en las que sean fuuncionales para el dispositivo ]
 
 ---
 
 ## Tabla de viabilidad
 
-> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
-> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
-> salgan perfectas.
 
 | Criterio | Idea 1 | Idea 2 | Idea 3 |
 |---|---|---|---|
-| Problema concreto de mi entorno | | | |
-| Parte física fabricable | | | |
-| Sensor o actuador | | | |
-| Construible en ocho sesiones por principiantes | | | |
-| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | | | |
+| Problema concreto de mi entorno | parcial|sí |sí |
+| Parte física fabricable | sí|sí | sí|
+| Sensor o actuador | parcial| sí| sí|
+| Construible en ocho sesiones por principiantes | parcial| sí| parcial|
+| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | medio|medio | medio|
 
 ## Mi elección
 
-**Idea elegida:** [ ]
+**Idea elegida:** [ rodillera de cuidado de rehabilitación]
 
-**Por qué.** [Tres o cuatro líneas, apoyadas en la tabla.]
+**Por qué.** [Esta fue mi elección debido a que es para el cuidado de un problema muy común y de mucho cuidado para muchas personas incluyedome dentro de los afectados por el problema, puede ser una idea muy útilpaara todo aquel que haya tenido una lesión de cualquier nivel en la rodilla.]
 
-**Qué todavía no sé.** [Lo que tendrías que averiguar o probar antes de comprometerte.
-Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingeniería.]
+**Qué todavía no sé.** [de que manerqa darle a cconocer al dispositifvo que movimientos son peligroospara que se adapte a las necesidades de cada usuario.]
 
 ---
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** [Chat GPT-5.6 Luna]
+- **Qué le pedí:** [ el tipo de se4nsores específicos que podrían usarse en las ideas]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [algunos sensores que no eran parte de mi idea inicial y podrían incrementar el precio sin aportar precisamente a la idea que tenía ]
