@@ -29,40 +29,38 @@
 
 - **Qué encontré:** [ existen muchos tipo de rodilleras, sin embaargo, no encontré ninguna que contenga ningun tipo sensor ]
 - **Enlace:** [ información sobre tipos de rodilleras y sus usos] (https://ortopediaparati.com/blog/tipos-de-rodilleras/?srsltid=AU7gw4WNAOX9WlPbTjMOYF0HzuCjxCy07reqQUaxIfaGcghZm6g0IZqs )
-- **Qué hace:** [ unicamente mantienen en ]
+- **Qué hace:** [ unicamente mantienen la rodilla envuelta como si estuviera vendada ]
 - **Por qué no resuelve mi caso:** [ las rodilleras existentes no contienen ningún sensor que ayude al usuario a cuidar su rodilla ]
 
 ---
 
 ## Parte 2. Fuentes de la idea que elegí
 
-> Instrucción: de dos a tres fuentes, solo de la idea elegida. Todavía no se pide formato
-> APA; eso llega más adelante en el curso. Lo que se pide es que distingas quién publicó
-> la información y por qué le crees.
+
 
 ### Fuente 1
 
-| Campo | Contenido |
+| Ortopedia y rehabilitación muscuesquelética | Explica los distintos tipos de rodilleras, además de dar recomendaciones para elegir que rodillera usar. |
 |---|---|
-| Autor u organización | [ ] |
-| Título | [ ] |
-| Año | [ ] |
-| Enlace | [ ] |
-| Tipo | [sitio institucional / nota periodística / documentación técnica / blog / video / foro] |
-| Por qué le creo | [ ] |
-| Qué dato me dio | [ ] |
+| Autor u organización | [ Dra. Madelin Sosa Carrasco, ortopedista] |
+| Título | [ Tipos de rodillerasortopédicas adecuadas para cada condición] |
+| Año | [ 2025] |
+| Enlace | [ https://ortopediaparati.com/blog/tipos-de-rodilleras/?srsltid=AU7gw4WNAOX9WlPbTjMOYF0HzuCjxCy07reqQUaxIfaGcghZm6g0IZqs ] |
+| Tipo | [artículo de blog especializado] |
+| Por qué le creo | [ fue escrito por una especialista en ortopedia] |
+| Qué dato me dio | [ los tipos de rodillera existentes y algunos datos a considerar sobre las necesidades de cada usuario] |
 
 ### Fuente 2
 
-| Campo | Contenido |
+| medicina deportiva, ortopedia | evidencia y recomendaciones clínicas sobre el uso de rodilleras |
 |---|---|
-| Autor u organización | [ ] |
-| Título | [ ] |
-| Año | [ ] |
-| Enlace | [ ] |
-| Tipo | [ ] |
-| Por qué le creo | [ ] |
-| Qué dato me dio | [ ] |
+| Autor u organización | [Scott A. Paluska, M.D. y Douglas B. McKeag, M.D., M.S. ] |
+| Título | [ Knee Braces: Current Evidence and Clinical] Recomendations for Their Use |
+| Año | [2000 ] |
+| Enlace | [https://www-aafp-org.translate.goog/afp/2000/0115/p411?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true ] |
+| Tipo | [  Artículo científico en una revista especializada] |
+| Por qué le creo | [ esté redactado por especialistas y publicado por una revista científica] |
+| Qué dato me dio | [ recomendaciones clínicas y evidencia sobre su uso] |
 
 ### Fuente 3 (opcional)
 
@@ -80,19 +78,18 @@
 
 ## Parte 3. Qué haría distinto
 
-[Cuatro o cinco líneas: qué cambia tu propuesta respecto a lo que ya existe. Puede ser el
-costo, el contexto donde funciona, la forma de avisar, el material, quién lo usa.]
+[ Mi propuesta va más allá de una rodillera convenciona que se usa en lugar de un vendaje ya que nos indicqa de manera clara en que memnto podemos estar lastimando o poniendo en riesgo nuestra rodilla, el integrar sensores dentro de una rodillera nos da más certeza de estar cuidando nuestra rodilla durante una rehabilitación, así como llevar un mejor control del avance de la misma. De igual forma el precio podría adaptarse al mismo que algunas rodilleras ortopédicas que no llevan ningún sensor en ellas, siendo así una mejor opción para la salud del usuario. ]
 
 ## Parte 4. Qué me falta averiguar
 
-- [ ] [Pregunta técnica que no pude resolver hoy]
+- [precio estimado del producto final] [Pregunta técnica que no pude resolver hoy]
 - [ ] [Dato que no encontré]
-- [ ] [Algo que tendría que medir o probar en persona]
+- [  comodidad de la rodillera con los sensores dentro de ella] [Algo que tendría que medir o probar en persona]
 
 ---
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
+- **Herramienta utilizada:** [No se utilizó IA generativa en esta entrega]
 - **Qué le pedí:** [ ]
 - **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
