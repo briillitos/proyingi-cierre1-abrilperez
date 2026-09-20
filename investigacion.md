@@ -1,8 +1,5 @@
 # Investigación: ¿esto ya existe? ¿quién lo dice?
 
-> Instrucción: sustituye lo que está entre corchetes y borra las líneas que empiezan con
-> "Instrucción:". Todos los enlaces deben abrir. Un enlace roto o inventado anula el
-> criterio correspondiente.
 
 **Autor:** [Abril Pérez Martínez]
 **Fecha:** [ 17 septiembre 2026]
@@ -12,9 +9,7 @@
 
 ## Parte 1. Un ejemplo que ya existe, por cada idea
 
-> Instrucción: busca algo parecido que alguien ya haya construido: un producto, un
-> proyecto de otra universidad, un repositorio, un tutorial. Encontrar que ya existe no
-> arruina tu idea; te dice desde dónde empezar.
+
 
 ### Idea 1: [Alarma de pendientes tipo reloj despertador]
 
@@ -25,17 +20,17 @@
 
 ### Idea 2: [detector de mala postura 🚶🏻‍➡️]
 
-- **Qué encontré:** [ ]
+- **Qué encontré:** [ dispositivo Upright Go S]
 - **Enlace:** [ infobae ] (https://www.infobae.com/america/tecno/2022/01/11/un-dispositivo-que-vibra-podria-ayudarle-a-mantener-una-mejor-postura/)
-- **Qué hace:** [ ] 
-- **Por qué no resuelve mi caso:** [ ]
+- **Qué hace:** [a través de vibraciones y alertas te da a conocer que debes mejorar tu postura en ese momento que se complementa con una aplicación para seguir tu proceso.] 
+- **Por qué no resuelve mi caso:** [ su precio actual es de 106 dólares y su adhesivo a laa piel indica no ser el mejor]
 
 ### Idea 3: [rodillera de cuidado de rehabilitación 🦵🏻]
 
 - **Qué encontré:** [ existen muchos tipo de rodilleras, sin embaargo, no encontré ninguna que contenga ningun tipo sensor ]
 - **Enlace:** [ información sobre tipos de rodilleras y sus usos] (https://ortopediaparati.com/blog/tipos-de-rodilleras/?srsltid=AU7gw4WNAOX9WlPbTjMOYF0HzuCjxCy07reqQUaxIfaGcghZm6g0IZqs )
-- **Qué hace:** [ ]
-- **Por qué no resuelve mi caso:** [ ]
+- **Qué hace:** [ unicamente mantienen en ]
+- **Por qué no resuelve mi caso:** [ las rodilleras existentes no contienen ningún sensor que ayude al usuario a cuidar su rodilla ]
 
 ---
 
