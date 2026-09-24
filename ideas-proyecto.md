@@ -1,8 +1,8 @@
 # Tres ideas de proyecto
 
 
-**Autor:** [Abril Pérez Martínez]
-**Fecha:** [17 septiembre 2026 ]
+**Autor:** Abril Pérez Martínez
+**Fecha:** 17 septiembre 2026 
 
 ---
 
@@ -17,48 +17,48 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 1: [alarma de pendientes tipo reloj despertador]
+## Idea 1: Alarma de pendientes tipo reloj despertador
 
-**Problema.** [olvidar pendientes como ordenar la mochila, sacar la ropa de la secadora o incluso la hora de dormir, muchas veces perdemos consciencia del tiempo y necesitamos un pequeño recordatorio de esas pequeñas tareas que podemos dejar de lado aveces ]
+**Problema.** Olvidar pendientes como ordenar la mochila, sacar la ropa de la secadora o incluso la hora de dormir, muchas veces perdemos consciencia del tiempo y necesitamos un pequeño recordatorio de esas pequeñas tareas que podemos dejar de lado aveces 
 
-**A quién le pasa.** [en mi casa es muy común que a mi hermano y a mi se nos olvide hacer algunas tareas pequeñas que nos encarga mi mamá u olvidamos llevar algunas cosas a la escuela]
+**A quién le pasa.** En mi casa es muy común que a mi hermano y a mi se nos olvide hacer algunas tareas pequeñas que nos encarga mi mamá u olvidamos llevar algunas cosas a la escuela
 
-**Dónde lo he visto.** [en mi casa y con mis amigos]
+**Dónde lo he visto.** En mi casa y con mis amigos
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ se usa un sensor de proximidad o toque, para que cuando suene la alarma solo se desactive al tocarla o acercar mucho la mano al dispositivo]
-- Qué hace con eso (actuador, aviso, pantalla): [se asegura de que fuiste a leer el pendiente que te está recordando ]
-- Qué pieza habría que fabricar: [ la base del reloj donde se pondrán los sensores y todo lo necesario para que funcione]
+- Qué mide o detecta (sensor): Se usa un sensor de proximidad o toque, para que cuando suene la alarma solo se desactive al tocarla o acercar mucho la mano al dispositivo
+- Qué hace con eso (actuador, aviso, pantalla): Se asegura de que fuiste a leer el pendiente que te está recordando 
+- Qué pieza habría que fabricar:  La base del reloj donde se pondrán los sensores y todo lo necesario para que funcione
 
 ---
 
-## Idea 2: [detector de mala postura]
+## Idea 2: Detector de mala postura
 
-**Problema.** [ los alumnos normalmente tienen una mala postura al momento de estar sentados tomando clases]
+**Problema.**  Los alumnos normalmente tienen una mala postura al momento de estar sentados tomando clases
 
-**A quién le pasa.** [ a los alumnos de IBERO Puebla]
+**A quién le pasa.**  A los alumnos de IBERO Puebla
 
-**Dónde lo he visto.** [en mis clases y cuando veo havia los salones en los que están tomando clase durante la semana ]
+**Dónde lo he visto.** En mis clases y cuando veo havia los salones en los que están tomando clase durante la semana 
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ se usa un sensor de inclinación para saber que tan encorvado está el alumno que o usa]
-- Qué hace con eso (actuador, aviso, pantalla): [ emite un pequeño sonido para advertir que se debe corregir la postura en ese momento]
-- Qué pieza habría que fabricar: [una base que pueda ponnerse sobre la ropa en la parte de la espalda  ]
+- Qué mide o detecta (sensor): se usa un sensor de inclinación para saber que tan encorvado está el alumno que o usa
+- Qué hace con eso (actuador, aviso, pantalla):  Emite un pequeño sonido para advertir que se debe corregir la postura en ese momento
+- Qué pieza habría que fabricar: Una base que pueda ponnerse sobre la ropa en la parte de la espalda  
 
 ---
 
-## Idea 3: [rodillera de cuidado de rehabilitación]
+## Idea 3: Rodillera de cuidado de rehabilitación
 
-**Problema.** [tengo problemas en la rodilla y debo tener cuidado al momento de ensyar o tomar mi taller de baile en la universidad debido a una lesión]
+**Problema.** Tengo problemas en la rodilla y debo tener cuidado al momento de ensyar o tomar mi taller de baile en la universidad debido a una lesión
 
-**A quién le pasa.** [ a mi y a los deportistas o bailarines de las distintas disciplinas que ese imparten en la IBERO]
+**A quién le pasa.**  A mi y a los deportistas o bailarines de las distintas disciplinas que ese imparten en la IBERO
 
-**Dónde lo he visto.** [ en mi casa y en la IBERO]
+**Dónde lo he visto.**  En mi casa y en la IBERO
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ se usan sensores de movimiento y ángulo en posiciones estrategicas para saber si es un movimiento normal o peligroso para la rodilla del usuario]
-- Qué hace con eso (actuador, aviso, pantalla): [ emite un ligero sonido que da a notar que se debe tener cuidado con el movimiento realizado debido a que podría afectar la rehabilitación]
-- Qué pieza habría que fabricar: [la rodillera con las bases para mantener los sensorees en posiciones en las que sean fuuncionales para el dispositivo ]
+- Qué mide o detecta (sensor): Se usan sensores de movimiento y ángulo en posiciones estrategicas para saber si es un movimiento normal o peligroso para la rodilla del usuario
+- Qué hace con eso (actuador, aviso, pantalla):  Emite un ligero sonido que da a notar que se debe tener cuidado con el movimiento realizado debido a que podría afectar la rehabilitación
+- Qué pieza habría que fabricar: La rodillera con las bases para mantener los sensorees en posiciones en las que sean fuuncionales para el dispositivo 
 
 ---
 
@@ -75,16 +75,16 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Mi elección
 
-**Idea elegida:** [ rodillera de cuidado de rehabilitación]
+**Idea elegida:**  Rodillera de cuidado de rehabilitación
 
-**Por qué.** [Esta fue mi elección debido a que es para el cuidado de un problema muy común y de mucho cuidado para muchas personas incluyedome dentro de los afectados por el problema, puede ser una idea muy útilpaara todo aquel que haya tenido una lesión de cualquier nivel en la rodilla.]
+**Por qué.** Esta fue mi elección debido a que es para el cuidado de un problema muy común y de mucho cuidado para muchas personas incluyedome dentro de los afectados por el problema, puede ser una idea muy útilpaara todo aquel que haya tenido una lesión de cualquier nivel en la rodilla.
 
-**Qué todavía no sé.** [de que manerqa darle a cconocer al dispositifvo que movimientos son peligroospara que se adapte a las necesidades de cada usuario.]
+**Qué todavía no sé.** De que manerqa darle a cconocer al dispositifvo que movimientos son peligroospara que se adapte a las necesidades de cada usuario.
 
 ---
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [Chat GPT-5.6 Luna]
-- **Qué le pedí:** [ el tipo de se4nsores específicos que podrían usarse en las ideas]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [algunos sensores que no eran parte de mi idea inicial y podrían incrementar el precio sin aportar precisamente a la idea que tenía ]
+- **Herramienta utilizada:** Chat GPT-5.6 Luna
+- **Qué le pedí:**  El tipo de se4nsores específicos que podrían usarse en las ideas
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** Algunos sensores que no eran parte de mi idea inicial y podrían incrementar el precio sin aportar precisamente a la idea que tenía.
