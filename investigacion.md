@@ -14,7 +14,7 @@
 ### Idea 1: Alarma de pendientes tipo reloj despertador
 
 - **Qué encontré:**  el reloj BBrain-Demencia de la marca Nura ⏰ 
-- **Enlace:** [nuraconfort (https://nuraconfort.com/producto/reloj-recordatorio-personalizado/)
+- **Enlace:** nuraconfort (https://nuraconfort.com/producto/reloj-recordatorio-personalizado/)
 - **Qué hace:** ayuda a las personas mayores a mantener su rutina diaria de manera autónoma y tranquila. Lo hace por medio de un sistema de recordatorios por voz. 
 - **Por qué no resuelve mi caso:**  su precio es de 136.20 euros, está enfocado únicamente a adultos mayores, disponible unicamente en línea debido a que es una empresa europea 
 
