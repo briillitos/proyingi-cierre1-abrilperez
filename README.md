@@ -22,6 +22,7 @@
 1. ejemplos reales de las tres ideas 
 |---|---|---|
 | reloj BBrain-Demencia | Upright Go S | No existe |
+|---|---|---|
 | nuraconfort | infobae | no hay |
 |---|---|---|
 
@@ -38,11 +39,17 @@
 4. imágenes y documentos .dxf
    
 |---|---|---|
-|parémetro|kerf|cajita|
+|parémetr0 | kerf | cajita |
+|---|---|---|
 |largo|100mm|80mm|
+|---|---|---|
 |ancho|:D|50mm|
+|---|---|---|
 |alto|20mm|60mm|
+|---|---|---|
 |kerf|0.2mm|0.2mm|
+|---|---|---|
 |espesor|3mm|3mm|
+|---|---|---|
 |ranura|2.8mm|2.8mm|
 |---|---|---|
