@@ -39,7 +39,7 @@
 4. imágenes y documentos .dxf
    
 |---|---|---|
-|parémetr0 | kerf | cajita |
+|parémetro | kerf | cajita |
 |---|---|---|
 |largo|100mm|80mm|
 |---|---|---|
