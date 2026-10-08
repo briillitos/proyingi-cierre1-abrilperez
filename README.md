@@ -34,3 +34,15 @@
 |---|---|---|
 | pregunta técnica| diseño base o relacionado a mi idea| comodidad de la rodillera con los sensores dentro|
 |---|---|---|
+
+4. imágenes y documentos .dxf
+   
+|---|---|---|
+|parémetro|kerf|cajita|
+|largo|100mm|80mm|
+|ancho|:D|50mm|
+|alto|20mm|60mm|
+|kerf|0.2mm|0.2mm|
+|espesor|3mm|3mm|
+|ranura|2.8mm|2.8mm|
+|---|---|---|
