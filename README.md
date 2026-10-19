@@ -11,7 +11,7 @@ Para elegir entre mis tres ideas las evalué con estos criterios:
 
 | Criterio | Qué significa |
 |---|---|
-| Problema común | ¿Mucha gente lo vive? |
+| Problema común | ¿Mucha gente lo vive? ¿Cuántas de cada 10 personas de mi entorno lo padecen? |
 | Cercanía personal | ¿Es un problema que yo conozco o he vivido? |
 | Novedad | ¿Hay pocas soluciones accesibles que ya lo resuelvan? |
 | Factibilidad técnica | ¿Puedo construir un prototipo con mis recursos? |
@@ -59,7 +59,7 @@ Elegí la **rodillera de cuidado de rehabilitación** por tres razones:
 | | Idea 1: Alarma | Idea 2: Postura | Idea 3: Rodillera |
 |---|---|---|---|
 | Ejemplo real | Reloj BBrain (para demencia) | Upright Go S | Rodilleras ortopédicas comunes (sin sensores) |
-| Fuente | https://nuraconfort.com/producto/reloj-recordatorio-personalizado/ NuraConfort | [Pendiente: link] | [nuraconfort](link) |
+| Fuente | https://nuraconfort.com/producto/reloj-recordatorio-personalizado/ NuraConfort |||
 | Comentario | Pensado para otro público, no para pendientes cotidianos | Detecta postura de espalda con un sensor pegado | Dan soporte, pero no miden ni avisan nada |
 
 
